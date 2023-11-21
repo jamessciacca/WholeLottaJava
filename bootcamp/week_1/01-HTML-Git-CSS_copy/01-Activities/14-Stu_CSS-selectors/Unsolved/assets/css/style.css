@@ -1,0 +1,46 @@
+/* TODO: Label selector type */
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+  /*the font family css style is used to set all of the fonts that can be used if the user 
+  has it installed, if not the default serif font will be used by the browser*/
+
+/* TODO: Label selector type */
+body {
+  background-color: lemonchiffon;
+}
+
+/*this sets the background color for the page, to a color of lemonchiffon!*/
+
+header,
+footer {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  color: #f0ead6;
+  background-color: #191970;
+}
+
+/*This sets the measurements of the header and footer text, and also sets the
+footer and header color to white text and blue background*/
+
+figure {
+  width: 200px;
+  background-color: #f0ead6;
+}
+
+/*This sets the photo area background to have a white square behind the photo with a 
+width of 200px, it also sets the background to color #f0ead6*/
+
+/* TODO: Label selector type */
+.highlighted-text {
+  font-weight: bolder;
+}
+
+/*sets all highlighted text to bold*/
+
+/* TODO: Label selector type */
+#contact-section {
+  background-color: #f0ead6;
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bluebird": "^3.7.2",
+    "mysql2": "^3.2.0",
+    "promise": "^8.3.0"
+  }
+}
