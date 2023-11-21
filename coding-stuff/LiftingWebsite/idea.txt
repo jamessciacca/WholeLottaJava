@@ -1,4 +1,0 @@
-I want to create a site that people can use to find new exercises and resources for lifting.
-I want to make it easy for a user to use 
-I want a user to be able to create an account and save workouts and even post them to a dashboard
-I want it to be a forum where people can chat and talk to each other about lifting 
