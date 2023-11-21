@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "dayjs": "^1.11.7",
-    "inquirer": "^8.2.5"
-  }
-}
