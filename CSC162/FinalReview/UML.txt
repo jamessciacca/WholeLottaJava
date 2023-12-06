@@ -1,0 +1,15 @@
+
+Attributes:
+- codedLanguage: String
+- programmingLevel: int
+- timeLimit: int
+
+Methods:
+- PracticeCoding(codedLanguage: String, programmingLevel: int, timeLimit: int): void
+- setCodedLanguage(language): void
+- getCodedLanguage(): String
+- setProgrammingLevel(level): void
+- getProgrammingLevel(): int
+- setTimeLimit(limit): void
+- getTimeLimit(): int
+- startCoding(): void

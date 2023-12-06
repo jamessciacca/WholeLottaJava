@@ -11,6 +11,6 @@ public class Recursion {
 
         //the method will call itself!
         // Be careful, this will cause an infinite loop
-        // sayHi();
+        sayHi();
     }
 }
