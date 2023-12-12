@@ -18,5 +18,7 @@ public class TryCatch2{
         } catch(Exception e){
             System.out.println("Enter a valid number!");
         }
+
+        input.close();
     }
 }

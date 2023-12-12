@@ -1,4 +1,4 @@
-package FinalReview;
+package FinalReviewPart1;
 
 public class UMLTest {
     public static void main(String[] args) {

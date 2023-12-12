@@ -1,4 +1,4 @@
-package FinalReview;
+package FinalReviewPart1;
 
 import java.util.Scanner;
 

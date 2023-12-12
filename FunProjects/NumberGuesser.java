@@ -16,7 +16,7 @@ public class NumberGuesser {
 
         if(play == 1){
             Random randomNum = new Random();
-            int number = randomNum.nextInt(100)+1;
+            int number = randomNum.nextInt(100);
             Game(number);
         }
         else{

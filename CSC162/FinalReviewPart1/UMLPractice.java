@@ -1,4 +1,4 @@
-package FinalReview;
+package FinalReviewPart1;
 
 public class UMLPractice {
     
