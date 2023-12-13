@@ -12,7 +12,7 @@ public class TryCatch {
             //if we call index three we get an error
             System.out.println(a[3]);
         } catch(Exception e){
-            System.out.println("out of bounds!!!");
+            System.out.println(e);
         }
     }
 }
